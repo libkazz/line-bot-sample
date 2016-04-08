@@ -59,7 +59,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord
   httpclient
-  ridgepole (= 0.5.2)
+  ridgepole
   sinatra
   slack-api
   sqlite3
